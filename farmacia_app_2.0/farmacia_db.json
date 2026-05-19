@@ -1,0 +1,3078 @@
+{
+    "medicamentos": [
+        {
+            "id": 1,
+            "nombre": "Paracetamol",
+            "stock": 63,
+            "precio_compra": 182.0,
+            "precio_venta": 196.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 2,
+            "nombre": "Ibuprofeno",
+            "stock": 89,
+            "precio_compra": 306.0,
+            "precio_venta": 375.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 3,
+            "nombre": "Naproxeno",
+            "stock": 63,
+            "precio_compra": 307.0,
+            "precio_venta": 396.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 4,
+            "nombre": "Diclofenaco",
+            "stock": 19,
+            "precio_compra": 454.0,
+            "precio_venta": 651.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 5,
+            "nombre": "Aspirina",
+            "stock": 68,
+            "precio_compra": 386.0,
+            "precio_venta": 497.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 6,
+            "nombre": "Ketorolaco",
+            "stock": 64,
+            "precio_compra": 356.0,
+            "precio_venta": 424.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 7,
+            "nombre": "Metamizol",
+            "stock": 25,
+            "precio_compra": 345.0,
+            "precio_venta": 466.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 8,
+            "nombre": "Tramadol",
+            "stock": 30,
+            "precio_compra": 373.0,
+            "precio_venta": 451.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 9,
+            "nombre": "Celecoxib",
+            "stock": 55,
+            "precio_compra": 250.0,
+            "precio_venta": 379.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 10,
+            "nombre": "Meloxicam",
+            "stock": 62,
+            "precio_compra": 168.0,
+            "precio_venta": 254.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 11,
+            "nombre": "Piroxicam",
+            "stock": 77,
+            "precio_compra": 374.0,
+            "precio_venta": 570.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 12,
+            "nombre": "Indometacina",
+            "stock": 44,
+            "precio_compra": 254.0,
+            "precio_venta": 400.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 13,
+            "nombre": "Clonixinato de lisina",
+            "stock": 76,
+            "precio_compra": 206.0,
+            "precio_venta": 387.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 14,
+            "nombre": "Dexketoprofeno",
+            "stock": 82,
+            "precio_compra": 254.0,
+            "precio_venta": 350.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 15,
+            "nombre": "Buprenorfina",
+            "stock": 61,
+            "precio_compra": 493.0,
+            "precio_venta": 546.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 16,
+            "nombre": "Morfina",
+            "stock": 69,
+            "precio_compra": 51.0,
+            "precio_venta": 110.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 17,
+            "nombre": "Oxycodona",
+            "stock": 67,
+            "precio_compra": 106.0,
+            "precio_venta": 260.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 18,
+            "nombre": "Fentanilo",
+            "stock": 50,
+            "precio_compra": 249.0,
+            "precio_venta": 273.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 19,
+            "nombre": "Nimesulida",
+            "stock": 52,
+            "precio_compra": 333.0,
+            "precio_venta": 440.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 20,
+            "nombre": "Etoricoxib",
+            "stock": 83,
+            "precio_compra": 475.0,
+            "precio_venta": 565.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 21,
+            "nombre": "Acetaminofén",
+            "stock": 28,
+            "precio_compra": 310.0,
+            "precio_venta": 475.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 22,
+            "nombre": "Dipirona",
+            "stock": 98,
+            "precio_compra": 121.0,
+            "precio_venta": 234.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Dolor y Fiebre"
+        },
+        {
+            "id": 23,
+            "nombre": "Loratadina",
+            "stock": 70,
+            "precio_compra": 155.0,
+            "precio_venta": 229.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 24,
+            "nombre": "Cetirizina",
+            "stock": 86,
+            "precio_compra": 221.0,
+            "precio_venta": 333.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 25,
+            "nombre": "Clorfenamina",
+            "stock": 88,
+            "precio_compra": 171.0,
+            "precio_venta": 287.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 26,
+            "nombre": "Desloratadina",
+            "stock": 97,
+            "precio_compra": 303.0,
+            "precio_venta": 434.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 27,
+            "nombre": "Fexofenadina",
+            "stock": 64,
+            "precio_compra": 48.0,
+            "precio_venta": 205.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 28,
+            "nombre": "Levocetirizina",
+            "stock": 71,
+            "precio_compra": 186.0,
+            "precio_venta": 382.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 29,
+            "nombre": "Difenhidramina",
+            "stock": 23,
+            "precio_compra": 234.0,
+            "precio_venta": 377.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 30,
+            "nombre": "Epinastina",
+            "stock": 39,
+            "precio_compra": 440.0,
+            "precio_venta": 570.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 31,
+            "nombre": "Ketotifeno",
+            "stock": 47,
+            "precio_compra": 90.0,
+            "precio_venta": 229.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 32,
+            "nombre": "Mometasona",
+            "stock": 82,
+            "precio_compra": 467.0,
+            "precio_venta": 649.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 33,
+            "nombre": "Fluticasona",
+            "stock": 57,
+            "precio_compra": 476.0,
+            "precio_venta": 664.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 34,
+            "nombre": "Budesonida",
+            "stock": 83,
+            "precio_compra": 406.0,
+            "precio_venta": 422.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 35,
+            "nombre": "Rupatadina",
+            "stock": 32,
+            "precio_compra": 372.0,
+            "precio_venta": 504.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 36,
+            "nombre": "Ebastina",
+            "stock": 81,
+            "precio_compra": 358.0,
+            "precio_venta": 450.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 37,
+            "nombre": "Bilastina",
+            "stock": 93,
+            "precio_compra": 160.0,
+            "precio_venta": 245.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 38,
+            "nombre": "Hidroxicina",
+            "stock": 23,
+            "precio_compra": 456.0,
+            "precio_venta": 564.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 39,
+            "nombre": "Clemastina",
+            "stock": 96,
+            "precio_compra": 484.0,
+            "precio_venta": 584.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 40,
+            "nombre": "Azelastina",
+            "stock": 22,
+            "precio_compra": 192.0,
+            "precio_venta": 206.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 41,
+            "nombre": "Olopatadina",
+            "stock": 64,
+            "precio_compra": 123.0,
+            "precio_venta": 232.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 42,
+            "nombre": "Emedastina",
+            "stock": 85,
+            "precio_compra": 136.0,
+            "precio_venta": 318.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Alergias"
+        },
+        {
+            "id": 43,
+            "nombre": "Ambroxol",
+            "stock": 24,
+            "precio_compra": 397.0,
+            "precio_venta": 483.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 44,
+            "nombre": "Dextrometorfano",
+            "stock": 41,
+            "precio_compra": 283.0,
+            "precio_venta": 386.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 45,
+            "nombre": "Guaifenesina",
+            "stock": 33,
+            "precio_compra": 207.0,
+            "precio_venta": 334.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 46,
+            "nombre": "Bromhexina",
+            "stock": 72,
+            "precio_compra": 297.0,
+            "precio_venta": 486.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 47,
+            "nombre": "Benzonatato",
+            "stock": 49,
+            "precio_compra": 86.0,
+            "precio_venta": 284.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 48,
+            "nombre": "Levodropropizina",
+            "stock": 70,
+            "precio_compra": 322.0,
+            "precio_venta": 479.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 49,
+            "nombre": "Oxolamina",
+            "stock": 24,
+            "precio_compra": 335.0,
+            "precio_venta": 526.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 50,
+            "nombre": "Clopiperastina",
+            "stock": 62,
+            "precio_compra": 133.0,
+            "precio_venta": 175.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 51,
+            "nombre": "Hedera Helix",
+            "stock": 60,
+            "precio_compra": 95.0,
+            "precio_venta": 204.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 52,
+            "nombre": "Salbutamol",
+            "stock": 34,
+            "precio_compra": 127.0,
+            "precio_venta": 175.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 53,
+            "nombre": "Fenilefrina",
+            "stock": 49,
+            "precio_compra": 257.0,
+            "precio_venta": 440.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 54,
+            "nombre": "Pseudoefedrina",
+            "stock": 79,
+            "precio_compra": 157.0,
+            "precio_venta": 228.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 55,
+            "nombre": "Oximetazolina",
+            "stock": 65,
+            "precio_compra": 36.0,
+            "precio_venta": 92.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 56,
+            "nombre": "Nafazolina",
+            "stock": 40,
+            "precio_compra": 333.0,
+            "precio_venta": 405.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 57,
+            "nombre": "Xilometazolina",
+            "stock": 64,
+            "precio_compra": 184.0,
+            "precio_venta": 307.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 58,
+            "nombre": "Terbutalina",
+            "stock": 79,
+            "precio_compra": 220.0,
+            "precio_venta": 319.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 59,
+            "nombre": "Formoterol",
+            "stock": 94,
+            "precio_compra": 59.0,
+            "precio_venta": 147.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 60,
+            "nombre": "Salmeterol",
+            "stock": 21,
+            "precio_compra": 345.0,
+            "precio_venta": 361.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 61,
+            "nombre": "Ipratropio",
+            "stock": 83,
+            "precio_compra": 308.0,
+            "precio_venta": 339.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 62,
+            "nombre": "Tiotropio",
+            "stock": 42,
+            "precio_compra": 404.0,
+            "precio_venta": 479.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 63,
+            "nombre": "Montelukast",
+            "stock": 92,
+            "precio_compra": 280.0,
+            "precio_venta": 458.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 64,
+            "nombre": "Zafirlukast",
+            "stock": 56,
+            "precio_compra": 280.0,
+            "precio_venta": 476.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tos y Gripe"
+        },
+        {
+            "id": 65,
+            "nombre": "Amoxicilina",
+            "stock": 41,
+            "precio_compra": 316.0,
+            "precio_venta": 351.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 66,
+            "nombre": "Ampicilina",
+            "stock": 97,
+            "precio_compra": 114.0,
+            "precio_venta": 130.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 67,
+            "nombre": "Ciprofloxacino",
+            "stock": 53,
+            "precio_compra": 213.0,
+            "precio_venta": 242.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 68,
+            "nombre": "Azitromicina",
+            "stock": 31,
+            "precio_compra": 469.0,
+            "precio_venta": 530.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 69,
+            "nombre": "Cefalexina",
+            "stock": 23,
+            "precio_compra": 318.0,
+            "precio_venta": 447.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 70,
+            "nombre": "Ceftriaxona",
+            "stock": 81,
+            "precio_compra": 213.0,
+            "precio_venta": 261.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 71,
+            "nombre": "Claritromicina",
+            "stock": 44,
+            "precio_compra": 430.0,
+            "precio_venta": 469.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 72,
+            "nombre": "Levofloxacino",
+            "stock": 98,
+            "precio_compra": 85.0,
+            "precio_venta": 185.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 73,
+            "nombre": "Clindamicina",
+            "stock": 88,
+            "precio_compra": 296.0,
+            "precio_venta": 379.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 74,
+            "nombre": "Eritromicina",
+            "stock": 41,
+            "precio_compra": 411.0,
+            "precio_venta": 444.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 75,
+            "nombre": "Doxiciclina",
+            "stock": 37,
+            "precio_compra": 96.0,
+            "precio_venta": 276.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 76,
+            "nombre": "Tetraciclina",
+            "stock": 95,
+            "precio_compra": 55.0,
+            "precio_venta": 87.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 77,
+            "nombre": "Gentamicina",
+            "stock": 27,
+            "precio_compra": 67.0,
+            "precio_venta": 247.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 78,
+            "nombre": "Amikacina",
+            "stock": 74,
+            "precio_compra": 204.0,
+            "precio_venta": 380.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 79,
+            "nombre": "Nitrofurantoína",
+            "stock": 53,
+            "precio_compra": 18.0,
+            "precio_venta": 60.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 80,
+            "nombre": "Trimetoprima",
+            "stock": 23,
+            "precio_compra": 42.0,
+            "precio_venta": 66.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 81,
+            "nombre": "Sulfametoxazol",
+            "stock": 24,
+            "precio_compra": 282.0,
+            "precio_venta": 306.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 82,
+            "nombre": "Cefotaxima",
+            "stock": 100,
+            "precio_compra": 43.0,
+            "precio_venta": 97.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 83,
+            "nombre": "Cefuroxima",
+            "stock": 27,
+            "precio_compra": 160.0,
+            "precio_venta": 225.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 84,
+            "nombre": "Cefaclor",
+            "stock": 73,
+            "precio_compra": 356.0,
+            "precio_venta": 440.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 85,
+            "nombre": "Dicloxacilina",
+            "stock": 42,
+            "precio_compra": 456.0,
+            "precio_venta": 573.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 86,
+            "nombre": "Penicilina",
+            "stock": 90,
+            "precio_compra": 14.0,
+            "precio_venta": 45.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 87,
+            "nombre": "Meropenem",
+            "stock": 38,
+            "precio_compra": 78.0,
+            "precio_venta": 238.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 88,
+            "nombre": "Imipenem",
+            "stock": 86,
+            "precio_compra": 253.0,
+            "precio_venta": 285.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Bacterianas"
+        },
+        {
+            "id": 89,
+            "nombre": "Aciclovir",
+            "stock": 73,
+            "precio_compra": 487.0,
+            "precio_venta": 509.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 90,
+            "nombre": "Valaciclovir",
+            "stock": 94,
+            "precio_compra": 386.0,
+            "precio_venta": 448.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 91,
+            "nombre": "Oseltamivir",
+            "stock": 75,
+            "precio_compra": 101.0,
+            "precio_venta": 213.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 92,
+            "nombre": "Zanamivir",
+            "stock": 59,
+            "precio_compra": 270.0,
+            "precio_venta": 378.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 93,
+            "nombre": "Amantadina",
+            "stock": 22,
+            "precio_compra": 237.0,
+            "precio_venta": 335.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 94,
+            "nombre": "Rimantadina",
+            "stock": 33,
+            "precio_compra": 244.0,
+            "precio_venta": 319.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 95,
+            "nombre": "Ribavirina",
+            "stock": 83,
+            "precio_compra": 448.0,
+            "precio_venta": 600.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 96,
+            "nombre": "Ganciclovir",
+            "stock": 85,
+            "precio_compra": 418.0,
+            "precio_venta": 485.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 97,
+            "nombre": "Famciclovir",
+            "stock": 71,
+            "precio_compra": 413.0,
+            "precio_venta": 605.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 98,
+            "nombre": "Foscarnet",
+            "stock": 40,
+            "precio_compra": 11.0,
+            "precio_venta": 180.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 99,
+            "nombre": "Entecavir",
+            "stock": 55,
+            "precio_compra": 385.0,
+            "precio_venta": 513.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 100,
+            "nombre": "Tenofovir",
+            "stock": 71,
+            "precio_compra": 177.0,
+            "precio_venta": 209.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 101,
+            "nombre": "Lamivudina",
+            "stock": 45,
+            "precio_compra": 21.0,
+            "precio_venta": 132.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 102,
+            "nombre": "Efavirenz",
+            "stock": 45,
+            "precio_compra": 11.0,
+            "precio_venta": 113.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 103,
+            "nombre": "Lopinavir",
+            "stock": 16,
+            "precio_compra": 382.0,
+            "precio_venta": 453.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 104,
+            "nombre": "Ritonavir",
+            "stock": 53,
+            "precio_compra": 279.0,
+            "precio_venta": 366.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 105,
+            "nombre": "Darunavir",
+            "stock": 27,
+            "precio_compra": 467.0,
+            "precio_venta": 587.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 106,
+            "nombre": "Dolutegravir",
+            "stock": 15,
+            "precio_compra": 130.0,
+            "precio_venta": 189.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 107,
+            "nombre": "Raltegravir",
+            "stock": 86,
+            "precio_compra": 56.0,
+            "precio_venta": 182.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 108,
+            "nombre": "Maraviroc",
+            "stock": 33,
+            "precio_compra": 271.0,
+            "precio_venta": 314.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones Virales"
+        },
+        {
+            "id": 109,
+            "nombre": "Fluconazol",
+            "stock": 86,
+            "precio_compra": 394.0,
+            "precio_venta": 556.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 110,
+            "nombre": "Ketoconazol",
+            "stock": 84,
+            "precio_compra": 48.0,
+            "precio_venta": 124.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 111,
+            "nombre": "Itraconazol",
+            "stock": 63,
+            "precio_compra": 146.0,
+            "precio_venta": 201.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 112,
+            "nombre": "Clotrimazol",
+            "stock": 74,
+            "precio_compra": 369.0,
+            "precio_venta": 429.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 113,
+            "nombre": "Miconazol",
+            "stock": 89,
+            "precio_compra": 46.0,
+            "precio_venta": 241.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 114,
+            "nombre": "Terbinafina",
+            "stock": 15,
+            "precio_compra": 100.0,
+            "precio_venta": 266.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 115,
+            "nombre": "Nistatina",
+            "stock": 29,
+            "precio_compra": 217.0,
+            "precio_venta": 355.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 116,
+            "nombre": "Griseofulvina",
+            "stock": 34,
+            "precio_compra": 152.0,
+            "precio_venta": 330.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 117,
+            "nombre": "Voriconazol",
+            "stock": 55,
+            "precio_compra": 192.0,
+            "precio_venta": 351.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 118,
+            "nombre": "Posaconazol",
+            "stock": 70,
+            "precio_compra": 312.0,
+            "precio_venta": 446.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 119,
+            "nombre": "Caspofungina",
+            "stock": 63,
+            "precio_compra": 466.0,
+            "precio_venta": 554.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 120,
+            "nombre": "Micafungina",
+            "stock": 58,
+            "precio_compra": 472.0,
+            "precio_venta": 610.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 121,
+            "nombre": "Anidulafungina",
+            "stock": 34,
+            "precio_compra": 45.0,
+            "precio_venta": 230.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 122,
+            "nombre": "Amfotericina B",
+            "stock": 61,
+            "precio_compra": 112.0,
+            "precio_venta": 200.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 123,
+            "nombre": "Tioconazol",
+            "stock": 51,
+            "precio_compra": 361.0,
+            "precio_venta": 494.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 124,
+            "nombre": "Econazol",
+            "stock": 68,
+            "precio_compra": 384.0,
+            "precio_venta": 486.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 125,
+            "nombre": "Sertaconazol",
+            "stock": 15,
+            "precio_compra": 474.0,
+            "precio_venta": 589.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 126,
+            "nombre": "Bifonazol",
+            "stock": 82,
+            "precio_compra": 403.0,
+            "precio_venta": 417.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 127,
+            "nombre": "Ciclopirox",
+            "stock": 31,
+            "precio_compra": 416.0,
+            "precio_venta": 516.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 128,
+            "nombre": "Amorolfina",
+            "stock": 65,
+            "precio_compra": 386.0,
+            "precio_venta": 513.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Infecciones por Hongos"
+        },
+        {
+            "id": 129,
+            "nombre": "Omeprazol",
+            "stock": 27,
+            "precio_compra": 255.0,
+            "precio_venta": 366.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 130,
+            "nombre": "Pantoprazol",
+            "stock": 96,
+            "precio_compra": 308.0,
+            "precio_venta": 355.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 131,
+            "nombre": "Esomeprazol",
+            "stock": 42,
+            "precio_compra": 385.0,
+            "precio_venta": 582.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 132,
+            "nombre": "Lansoprazol",
+            "stock": 84,
+            "precio_compra": 344.0,
+            "precio_venta": 460.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 133,
+            "nombre": "Rabeprazol",
+            "stock": 20,
+            "precio_compra": 69.0,
+            "precio_venta": 109.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 134,
+            "nombre": "Ranitidina",
+            "stock": 81,
+            "precio_compra": 358.0,
+            "precio_venta": 417.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 135,
+            "nombre": "Famotidina",
+            "stock": 100,
+            "precio_compra": 224.0,
+            "precio_venta": 360.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 136,
+            "nombre": "Subsalicilato de bismuto",
+            "stock": 83,
+            "precio_compra": 41.0,
+            "precio_venta": 122.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 137,
+            "nombre": "Magaldrato",
+            "stock": 99,
+            "precio_compra": 91.0,
+            "precio_venta": 139.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 138,
+            "nombre": "Hidróxido de aluminio",
+            "stock": 42,
+            "precio_compra": 74.0,
+            "precio_venta": 184.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 139,
+            "nombre": "Hidróxido de magnesio",
+            "stock": 20,
+            "precio_compra": 231.0,
+            "precio_venta": 406.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 140,
+            "nombre": "Simeticona",
+            "stock": 30,
+            "precio_compra": 149.0,
+            "precio_venta": 291.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 141,
+            "nombre": "Metoclopramida",
+            "stock": 59,
+            "precio_compra": 340.0,
+            "precio_venta": 422.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 142,
+            "nombre": "Ondansetrón",
+            "stock": 24,
+            "precio_compra": 26.0,
+            "precio_venta": 50.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 143,
+            "nombre": "Domperidona",
+            "stock": 97,
+            "precio_compra": 314.0,
+            "precio_venta": 333.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 144,
+            "nombre": "Cisaprida",
+            "stock": 84,
+            "precio_compra": 313.0,
+            "precio_venta": 410.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 145,
+            "nombre": "Trimebutina",
+            "stock": 77,
+            "precio_compra": 356.0,
+            "precio_venta": 529.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 146,
+            "nombre": "Pinaverio",
+            "stock": 100,
+            "precio_compra": 51.0,
+            "precio_venta": 175.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 147,
+            "nombre": "Mebeverina",
+            "stock": 42,
+            "precio_compra": 153.0,
+            "precio_venta": 337.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 148,
+            "nombre": "Loperamida",
+            "stock": 93,
+            "precio_compra": 367.0,
+            "precio_venta": 522.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 149,
+            "nombre": "Racecadotrilo",
+            "stock": 16,
+            "precio_compra": 152.0,
+            "precio_venta": 168.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 150,
+            "nombre": "Diosmectita",
+            "stock": 49,
+            "precio_compra": 168.0,
+            "precio_venta": 347.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 151,
+            "nombre": "Probióticos",
+            "stock": 59,
+            "precio_compra": 116.0,
+            "precio_venta": 142.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 152,
+            "nombre": "Senósidos",
+            "stock": 82,
+            "precio_compra": 226.0,
+            "precio_venta": 403.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 153,
+            "nombre": "Bisacodilo",
+            "stock": 79,
+            "precio_compra": 121.0,
+            "precio_venta": 173.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 154,
+            "nombre": "Lactulosa",
+            "stock": 100,
+            "precio_compra": 157.0,
+            "precio_venta": 250.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 155,
+            "nombre": "Plantago psyllium",
+            "stock": 75,
+            "precio_compra": 323.0,
+            "precio_venta": 335.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 156,
+            "nombre": "Polietilenglicol",
+            "stock": 86,
+            "precio_compra": 356.0,
+            "precio_venta": 400.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 157,
+            "nombre": "Butilhioscina",
+            "stock": 44,
+            "precio_compra": 207.0,
+            "precio_venta": 312.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 158,
+            "nombre": "Pargeverina",
+            "stock": 40,
+            "precio_compra": 133.0,
+            "precio_venta": 306.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Problemas Estomacales"
+        },
+        {
+            "id": 159,
+            "nombre": "Losartán",
+            "stock": 27,
+            "precio_compra": 388.0,
+            "precio_venta": 409.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 160,
+            "nombre": "Telmisartán",
+            "stock": 61,
+            "precio_compra": 189.0,
+            "precio_venta": 256.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 161,
+            "nombre": "Valsartán",
+            "stock": 18,
+            "precio_compra": 142.0,
+            "precio_venta": 254.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 162,
+            "nombre": "Candesartán",
+            "stock": 52,
+            "precio_compra": 97.0,
+            "precio_venta": 111.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 163,
+            "nombre": "Irbesartán",
+            "stock": 80,
+            "precio_compra": 431.0,
+            "precio_venta": 624.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 164,
+            "nombre": "Enalapril",
+            "stock": 48,
+            "precio_compra": 437.0,
+            "precio_venta": 545.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 165,
+            "nombre": "Captopril",
+            "stock": 67,
+            "precio_compra": 292.0,
+            "precio_venta": 463.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 166,
+            "nombre": "Lisinopril",
+            "stock": 96,
+            "precio_compra": 484.0,
+            "precio_venta": 537.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 167,
+            "nombre": "Ramipril",
+            "stock": 48,
+            "precio_compra": 82.0,
+            "precio_venta": 242.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 168,
+            "nombre": "Amlodipino",
+            "stock": 52,
+            "precio_compra": 452.0,
+            "precio_venta": 644.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 169,
+            "nombre": "Nifedipino",
+            "stock": 89,
+            "precio_compra": 19.0,
+            "precio_venta": 67.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 170,
+            "nombre": "Felodipino",
+            "stock": 92,
+            "precio_compra": 108.0,
+            "precio_venta": 196.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 171,
+            "nombre": "Diltiazem",
+            "stock": 29,
+            "precio_compra": 330.0,
+            "precio_venta": 477.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 172,
+            "nombre": "Verapamilo",
+            "stock": 91,
+            "precio_compra": 417.0,
+            "precio_venta": 495.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 173,
+            "nombre": "Atenolol",
+            "stock": 85,
+            "precio_compra": 403.0,
+            "precio_venta": 597.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 174,
+            "nombre": "Metoprolol",
+            "stock": 74,
+            "precio_compra": 282.0,
+            "precio_venta": 414.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 175,
+            "nombre": "Propranolol",
+            "stock": 93,
+            "precio_compra": 123.0,
+            "precio_venta": 294.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 176,
+            "nombre": "Bisoprolol",
+            "stock": 68,
+            "precio_compra": 223.0,
+            "precio_venta": 302.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 177,
+            "nombre": "Carvedilol",
+            "stock": 19,
+            "precio_compra": 17.0,
+            "precio_venta": 93.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 178,
+            "nombre": "Nebivolol",
+            "stock": 71,
+            "precio_compra": 320.0,
+            "precio_venta": 466.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 179,
+            "nombre": "Furosemida",
+            "stock": 90,
+            "precio_compra": 156.0,
+            "precio_venta": 262.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 180,
+            "nombre": "Hidroclorotiazida",
+            "stock": 60,
+            "precio_compra": 248.0,
+            "precio_venta": 354.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 181,
+            "nombre": "Espironolactona",
+            "stock": 17,
+            "precio_compra": 119.0,
+            "precio_venta": 247.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 182,
+            "nombre": "Clortalidona",
+            "stock": 57,
+            "precio_compra": 254.0,
+            "precio_venta": 343.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 183,
+            "nombre": "Indapamida",
+            "stock": 100,
+            "precio_compra": 331.0,
+            "precio_venta": 413.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 184,
+            "nombre": "Atorvastatina",
+            "stock": 18,
+            "precio_compra": 208.0,
+            "precio_venta": 370.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 185,
+            "nombre": "Simvastatina",
+            "stock": 48,
+            "precio_compra": 170.0,
+            "precio_venta": 317.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 186,
+            "nombre": "Pravastatina",
+            "stock": 71,
+            "precio_compra": 243.0,
+            "precio_venta": 279.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 187,
+            "nombre": "Rosuvastatina",
+            "stock": 100,
+            "precio_compra": 204.0,
+            "precio_venta": 263.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 188,
+            "nombre": "Bezafibrato",
+            "stock": 47,
+            "precio_compra": 121.0,
+            "precio_venta": 137.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 189,
+            "nombre": "Fenofibrato",
+            "stock": 35,
+            "precio_compra": 161.0,
+            "precio_venta": 312.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 190,
+            "nombre": "Aspirina Protect",
+            "stock": 73,
+            "precio_compra": 397.0,
+            "precio_venta": 471.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 191,
+            "nombre": "Clopidogrel",
+            "stock": 72,
+            "precio_compra": 20.0,
+            "precio_venta": 83.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 192,
+            "nombre": "Prasugrel",
+            "stock": 27,
+            "precio_compra": 358.0,
+            "precio_venta": 541.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 193,
+            "nombre": "Ticagrelor",
+            "stock": 20,
+            "precio_compra": 311.0,
+            "precio_venta": 495.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 194,
+            "nombre": "Warfarina",
+            "stock": 82,
+            "precio_compra": 147.0,
+            "precio_venta": 314.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 195,
+            "nombre": "Acenocumarol",
+            "stock": 92,
+            "precio_compra": 434.0,
+            "precio_venta": 612.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 196,
+            "nombre": "Rivaroxabán",
+            "stock": 62,
+            "precio_compra": 300.0,
+            "precio_venta": 312.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 197,
+            "nombre": "Apixabán",
+            "stock": 33,
+            "precio_compra": 311.0,
+            "precio_venta": 393.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 198,
+            "nombre": "Dabigatrán",
+            "stock": 45,
+            "precio_compra": 66.0,
+            "precio_venta": 173.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Hipertensión y Corazón"
+        },
+        {
+            "id": 199,
+            "nombre": "Metformina",
+            "stock": 72,
+            "precio_compra": 188.0,
+            "precio_venta": 363.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 200,
+            "nombre": "Glibenclamida",
+            "stock": 99,
+            "precio_compra": 35.0,
+            "precio_venta": 224.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 201,
+            "nombre": "Glimepirida",
+            "stock": 43,
+            "precio_compra": 227.0,
+            "precio_venta": 364.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 202,
+            "nombre": "Gliclazida",
+            "stock": 28,
+            "precio_compra": 481.0,
+            "precio_venta": 542.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 203,
+            "nombre": "Pioglitazona",
+            "stock": 21,
+            "precio_compra": 162.0,
+            "precio_venta": 231.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 204,
+            "nombre": "Rosiglitazona",
+            "stock": 26,
+            "precio_compra": 159.0,
+            "precio_venta": 270.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 205,
+            "nombre": "Sitagliptina",
+            "stock": 79,
+            "precio_compra": 277.0,
+            "precio_venta": 370.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 206,
+            "nombre": "Vildagliptina",
+            "stock": 88,
+            "precio_compra": 467.0,
+            "precio_venta": 651.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 207,
+            "nombre": "Saxagliptina",
+            "stock": 87,
+            "precio_compra": 263.0,
+            "precio_venta": 321.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 208,
+            "nombre": "Linagliptina",
+            "stock": 33,
+            "precio_compra": 209.0,
+            "precio_venta": 385.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 209,
+            "nombre": "Exenatida",
+            "stock": 95,
+            "precio_compra": 418.0,
+            "precio_venta": 445.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 210,
+            "nombre": "Liraglutida",
+            "stock": 24,
+            "precio_compra": 66.0,
+            "precio_venta": 208.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 211,
+            "nombre": "Dulaglutida",
+            "stock": 80,
+            "precio_compra": 462.0,
+            "precio_venta": 604.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 212,
+            "nombre": "Semaglutida",
+            "stock": 58,
+            "precio_compra": 341.0,
+            "precio_venta": 440.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 213,
+            "nombre": "Dapagliflozina",
+            "stock": 45,
+            "precio_compra": 408.0,
+            "precio_venta": 581.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 214,
+            "nombre": "Empagliflozina",
+            "stock": 68,
+            "precio_compra": 450.0,
+            "precio_venta": 630.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 215,
+            "nombre": "Canagliflozina",
+            "stock": 68,
+            "precio_compra": 365.0,
+            "precio_venta": 406.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 216,
+            "nombre": "Insulina Rápida",
+            "stock": 25,
+            "precio_compra": 290.0,
+            "precio_venta": 300.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 217,
+            "nombre": "Insulina NPH",
+            "stock": 70,
+            "precio_compra": 180.0,
+            "precio_venta": 222.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 218,
+            "nombre": "Insulina Glargina",
+            "stock": 82,
+            "precio_compra": 333.0,
+            "precio_venta": 410.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 219,
+            "nombre": "Insulina Detemir",
+            "stock": 48,
+            "precio_compra": 94.0,
+            "precio_venta": 214.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 220,
+            "nombre": "Insulina Degludec",
+            "stock": 61,
+            "precio_compra": 291.0,
+            "precio_venta": 324.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 221,
+            "nombre": "Acarbosa",
+            "stock": 49,
+            "precio_compra": 299.0,
+            "precio_venta": 404.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 222,
+            "nombre": "Miglitol",
+            "stock": 32,
+            "precio_compra": 188.0,
+            "precio_venta": 258.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Diabetes"
+        },
+        {
+            "id": 223,
+            "nombre": "Fluoxetina",
+            "stock": 53,
+            "precio_compra": 243.0,
+            "precio_venta": 319.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 224,
+            "nombre": "Sertralina",
+            "stock": 63,
+            "precio_compra": 164.0,
+            "precio_venta": 329.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 225,
+            "nombre": "Paroxetina",
+            "stock": 74,
+            "precio_compra": 102.0,
+            "precio_venta": 142.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 226,
+            "nombre": "Citalopram",
+            "stock": 17,
+            "precio_compra": 223.0,
+            "precio_venta": 398.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 227,
+            "nombre": "Escitalopram",
+            "stock": 85,
+            "precio_compra": 154.0,
+            "precio_venta": 303.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 228,
+            "nombre": "Venlafaxina",
+            "stock": 20,
+            "precio_compra": 194.0,
+            "precio_venta": 380.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 229,
+            "nombre": "Desvenlafaxina",
+            "stock": 17,
+            "precio_compra": 385.0,
+            "precio_venta": 540.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 230,
+            "nombre": "Duloxetina",
+            "stock": 100,
+            "precio_compra": 271.0,
+            "precio_venta": 402.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 231,
+            "nombre": "Mirtazapina",
+            "stock": 15,
+            "precio_compra": 161.0,
+            "precio_venta": 261.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 232,
+            "nombre": "Bupropión",
+            "stock": 81,
+            "precio_compra": 207.0,
+            "precio_venta": 253.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 233,
+            "nombre": "Amitriptilina",
+            "stock": 94,
+            "precio_compra": 325.0,
+            "precio_venta": 522.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 234,
+            "nombre": "Imipramina",
+            "stock": 42,
+            "precio_compra": 281.0,
+            "precio_venta": 399.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 235,
+            "nombre": "Clomipramina",
+            "stock": 32,
+            "precio_compra": 475.0,
+            "precio_venta": 661.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 236,
+            "nombre": "Diazepam",
+            "stock": 20,
+            "precio_compra": 127.0,
+            "precio_venta": 302.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 237,
+            "nombre": "Clonazepam",
+            "stock": 57,
+            "precio_compra": 451.0,
+            "precio_venta": 626.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 238,
+            "nombre": "Alprazolam",
+            "stock": 46,
+            "precio_compra": 490.0,
+            "precio_venta": 657.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 239,
+            "nombre": "Lorazepam",
+            "stock": 30,
+            "precio_compra": 371.0,
+            "precio_venta": 443.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 240,
+            "nombre": "Bromazepam",
+            "stock": 79,
+            "precio_compra": 440.0,
+            "precio_venta": 541.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 241,
+            "nombre": "Midazolam",
+            "stock": 53,
+            "precio_compra": 449.0,
+            "precio_venta": 543.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 242,
+            "nombre": "Zolpidem",
+            "stock": 28,
+            "precio_compra": 196.0,
+            "precio_venta": 320.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 243,
+            "nombre": "Zopiclona",
+            "stock": 15,
+            "precio_compra": 118.0,
+            "precio_venta": 245.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 244,
+            "nombre": "Pregabalina",
+            "stock": 86,
+            "precio_compra": 12.0,
+            "precio_venta": 36.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 245,
+            "nombre": "Gabapentina",
+            "stock": 89,
+            "precio_compra": 194.0,
+            "precio_venta": 317.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 246,
+            "nombre": "Valproato",
+            "stock": 39,
+            "precio_compra": 245.0,
+            "precio_venta": 320.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 247,
+            "nombre": "Carbamazepina",
+            "stock": 20,
+            "precio_compra": 439.0,
+            "precio_venta": 631.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 248,
+            "nombre": "Oxcarbazepina",
+            "stock": 55,
+            "precio_compra": 193.0,
+            "precio_venta": 305.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 249,
+            "nombre": "Levetiracetam",
+            "stock": 98,
+            "precio_compra": 267.0,
+            "precio_venta": 376.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 250,
+            "nombre": "Topiramato",
+            "stock": 45,
+            "precio_compra": 224.0,
+            "precio_venta": 336.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 251,
+            "nombre": "Lamotrigina",
+            "stock": 60,
+            "precio_compra": 114.0,
+            "precio_venta": 166.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 252,
+            "nombre": "Fenitoína",
+            "stock": 93,
+            "precio_compra": 403.0,
+            "precio_venta": 506.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Ansiedad y Depresión"
+        },
+        {
+            "id": 253,
+            "nombre": "Hipromelosa",
+            "stock": 79,
+            "precio_compra": 110.0,
+            "precio_venta": 245.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 254,
+            "nombre": "Hialuronato de sodio",
+            "stock": 71,
+            "precio_compra": 43.0,
+            "precio_venta": 218.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 255,
+            "nombre": "Nafazolina ocular",
+            "stock": 15,
+            "precio_compra": 14.0,
+            "precio_venta": 83.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 256,
+            "nombre": "Timolol",
+            "stock": 93,
+            "precio_compra": 228.0,
+            "precio_venta": 303.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 257,
+            "nombre": "Bimatoprost",
+            "stock": 56,
+            "precio_compra": 338.0,
+            "precio_venta": 461.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 258,
+            "nombre": "Latanoprost",
+            "stock": 45,
+            "precio_compra": 300.0,
+            "precio_venta": 432.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 259,
+            "nombre": "Travoprost",
+            "stock": 38,
+            "precio_compra": 431.0,
+            "precio_venta": 509.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 260,
+            "nombre": "Dorzolamida",
+            "stock": 29,
+            "precio_compra": 155.0,
+            "precio_venta": 228.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 261,
+            "nombre": "Brimonidina",
+            "stock": 94,
+            "precio_compra": 27.0,
+            "precio_venta": 156.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 262,
+            "nombre": "Prednisolona ocular",
+            "stock": 56,
+            "precio_compra": 331.0,
+            "precio_venta": 487.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 263,
+            "nombre": "Dexametasona ocular",
+            "stock": 38,
+            "precio_compra": 143.0,
+            "precio_venta": 192.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 264,
+            "nombre": "Diclofenaco ocular",
+            "stock": 96,
+            "precio_compra": 495.0,
+            "precio_venta": 514.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 265,
+            "nombre": "Ketorolaco ocular",
+            "stock": 86,
+            "precio_compra": 421.0,
+            "precio_venta": 577.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 266,
+            "nombre": "Ciprofloxacino ocular",
+            "stock": 18,
+            "precio_compra": 403.0,
+            "precio_venta": 439.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 267,
+            "nombre": "Tobramicina ocular",
+            "stock": 61,
+            "precio_compra": 168.0,
+            "precio_venta": 246.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 268,
+            "nombre": "Eritromicina ocular",
+            "stock": 65,
+            "precio_compra": 209.0,
+            "precio_venta": 316.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 269,
+            "nombre": "Cloranfenicol ocular",
+            "stock": 93,
+            "precio_compra": 498.0,
+            "precio_venta": 548.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 270,
+            "nombre": "Tetracaína",
+            "stock": 22,
+            "precio_compra": 13.0,
+            "precio_venta": 156.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 271,
+            "nombre": "Proparacaína",
+            "stock": 37,
+            "precio_compra": 300.0,
+            "precio_venta": 421.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 272,
+            "nombre": "Pilocarpina",
+            "stock": 96,
+            "precio_compra": 185.0,
+            "precio_venta": 336.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado Ocular"
+        },
+        {
+            "id": 273,
+            "nombre": "Hidrocortisona tópica",
+            "stock": 77,
+            "precio_compra": 414.0,
+            "precio_venta": 548.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 274,
+            "nombre": "Betametasona",
+            "stock": 47,
+            "precio_compra": 283.0,
+            "precio_venta": 391.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 275,
+            "nombre": "Clobetasol",
+            "stock": 57,
+            "precio_compra": 289.0,
+            "precio_venta": 358.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 276,
+            "nombre": "Desonida",
+            "stock": 41,
+            "precio_compra": 366.0,
+            "precio_venta": 550.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 277,
+            "nombre": "Mupirocina",
+            "stock": 22,
+            "precio_compra": 209.0,
+            "precio_venta": 296.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 278,
+            "nombre": "Ácido fusídico",
+            "stock": 82,
+            "precio_compra": 274.0,
+            "precio_venta": 362.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 279,
+            "nombre": "Retinol",
+            "stock": 72,
+            "precio_compra": 360.0,
+            "precio_venta": 479.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 280,
+            "nombre": "Tretinoína",
+            "stock": 59,
+            "precio_compra": 459.0,
+            "precio_venta": 519.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 281,
+            "nombre": "Adapaleno",
+            "stock": 72,
+            "precio_compra": 438.0,
+            "precio_venta": 559.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 282,
+            "nombre": "Peróxido de benzoilo",
+            "stock": 25,
+            "precio_compra": 448.0,
+            "precio_venta": 526.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 283,
+            "nombre": "Ácido salicílico",
+            "stock": 43,
+            "precio_compra": 145.0,
+            "precio_venta": 273.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 284,
+            "nombre": "Clindamicina tópica",
+            "stock": 17,
+            "precio_compra": 367.0,
+            "precio_venta": 479.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 285,
+            "nombre": "Eritromicina tópica",
+            "stock": 59,
+            "precio_compra": 361.0,
+            "precio_venta": 425.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 286,
+            "nombre": "Calamina",
+            "stock": 98,
+            "precio_compra": 68.0,
+            "precio_venta": 123.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 287,
+            "nombre": "Óxido de zinc",
+            "stock": 31,
+            "precio_compra": 130.0,
+            "precio_venta": 231.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 288,
+            "nombre": "Pantenol",
+            "stock": 56,
+            "precio_compra": 11.0,
+            "precio_venta": 63.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 289,
+            "nombre": "Urea",
+            "stock": 31,
+            "precio_compra": 187.0,
+            "precio_venta": 320.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 290,
+            "nombre": "Ácido hialurónico",
+            "stock": 18,
+            "precio_compra": 450.0,
+            "precio_venta": 544.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 291,
+            "nombre": "Colágeno",
+            "stock": 39,
+            "precio_compra": 474.0,
+            "precio_venta": 628.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 292,
+            "nombre": "Minoxidil",
+            "stock": 36,
+            "precio_compra": 96.0,
+            "precio_venta": 174.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 293,
+            "nombre": "Finasterida",
+            "stock": 80,
+            "precio_compra": 193.0,
+            "precio_venta": 245.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 294,
+            "nombre": "Ketoconazol champú",
+            "stock": 62,
+            "precio_compra": 256.0,
+            "precio_venta": 338.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 295,
+            "nombre": "Alquitrán de hulla",
+            "stock": 75,
+            "precio_compra": 477.0,
+            "precio_venta": 578.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Cuidado de la Piel"
+        },
+        {
+            "id": 296,
+            "nombre": "Vitamina C",
+            "stock": 72,
+            "precio_compra": 21.0,
+            "precio_venta": 134.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 297,
+            "nombre": "Vitamina D3",
+            "stock": 73,
+            "precio_compra": 443.0,
+            "precio_venta": 606.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 298,
+            "nombre": "Vitamina E",
+            "stock": 86,
+            "precio_compra": 153.0,
+            "precio_venta": 251.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 299,
+            "nombre": "Vitamina A",
+            "stock": 36,
+            "precio_compra": 301.0,
+            "precio_venta": 470.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 300,
+            "nombre": "Vitamina B12",
+            "stock": 50,
+            "precio_compra": 152.0,
+            "precio_venta": 283.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 301,
+            "nombre": "Vitamina B6",
+            "stock": 27,
+            "precio_compra": 119.0,
+            "precio_venta": 265.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 302,
+            "nombre": "Complejo B",
+            "stock": 68,
+            "precio_compra": 453.0,
+            "precio_venta": 478.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 303,
+            "nombre": "Ácido Fólico",
+            "stock": 15,
+            "precio_compra": 269.0,
+            "precio_venta": 350.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 304,
+            "nombre": "Hierro",
+            "stock": 33,
+            "precio_compra": 132.0,
+            "precio_venta": 262.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 305,
+            "nombre": "Calcio",
+            "stock": 96,
+            "precio_compra": 167.0,
+            "precio_venta": 357.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 306,
+            "nombre": "Magnesio",
+            "stock": 53,
+            "precio_compra": 98.0,
+            "precio_venta": 209.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 307,
+            "nombre": "Zinc",
+            "stock": 39,
+            "precio_compra": 373.0,
+            "precio_venta": 510.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 308,
+            "nombre": "Potasio",
+            "stock": 51,
+            "precio_compra": 65.0,
+            "precio_venta": 78.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 309,
+            "nombre": "Omega 3",
+            "stock": 28,
+            "precio_compra": 122.0,
+            "precio_venta": 261.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 310,
+            "nombre": "Glucosamina",
+            "stock": 43,
+            "precio_compra": 60.0,
+            "precio_venta": 118.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 311,
+            "nombre": "Condroitina",
+            "stock": 84,
+            "precio_compra": 331.0,
+            "precio_venta": 436.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 312,
+            "nombre": "Colágeno Hidrolizado",
+            "stock": 95,
+            "precio_compra": 254.0,
+            "precio_venta": 301.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 313,
+            "nombre": "Biotina",
+            "stock": 79,
+            "precio_compra": 72.0,
+            "precio_venta": 237.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 314,
+            "nombre": "Melatonina",
+            "stock": 77,
+            "precio_compra": 334.0,
+            "precio_venta": 498.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 315,
+            "nombre": "Ginseng",
+            "stock": 38,
+            "precio_compra": 375.0,
+            "precio_venta": 493.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 316,
+            "nombre": "Ginkgo Biloba",
+            "stock": 48,
+            "precio_compra": 121.0,
+            "precio_venta": 261.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 317,
+            "nombre": "Espirulina",
+            "stock": 68,
+            "precio_compra": 277.0,
+            "precio_venta": 312.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 318,
+            "nombre": "Maca",
+            "stock": 99,
+            "precio_compra": 212.0,
+            "precio_venta": 369.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 319,
+            "nombre": "Cúrcuma",
+            "stock": 61,
+            "precio_compra": 351.0,
+            "precio_venta": 510.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Vitaminas y Suplementos"
+        },
+        {
+            "id": 320,
+            "nombre": "Albendazol",
+            "stock": 70,
+            "precio_compra": 494.0,
+            "precio_venta": 618.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 321,
+            "nombre": "Mebendazol",
+            "stock": 82,
+            "precio_compra": 457.0,
+            "precio_venta": 524.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 322,
+            "nombre": "Quinfamida",
+            "stock": 26,
+            "precio_compra": 196.0,
+            "precio_venta": 360.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 323,
+            "nombre": "Secnidazol",
+            "stock": 41,
+            "precio_compra": 221.0,
+            "precio_venta": 317.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 324,
+            "nombre": "Nitazoxanida",
+            "stock": 34,
+            "precio_compra": 140.0,
+            "precio_venta": 246.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 325,
+            "nombre": "Metronidazol",
+            "stock": 23,
+            "precio_compra": 210.0,
+            "precio_venta": 287.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 326,
+            "nombre": "Tinidazol",
+            "stock": 86,
+            "precio_compra": 444.0,
+            "precio_venta": 476.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 327,
+            "nombre": "Ivermectina",
+            "stock": 52,
+            "precio_compra": 81.0,
+            "precio_venta": 246.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 328,
+            "nombre": "Prazicuantel",
+            "stock": 49,
+            "precio_compra": 350.0,
+            "precio_venta": 370.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 329,
+            "nombre": "Pirantel",
+            "stock": 36,
+            "precio_compra": 170.0,
+            "precio_venta": 356.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Antiparasitarios"
+        },
+        {
+            "id": 330,
+            "nombre": "Levotiroxina",
+            "stock": 72,
+            "precio_compra": 24.0,
+            "precio_venta": 110.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 331,
+            "nombre": "Liotironina",
+            "stock": 94,
+            "precio_compra": 387.0,
+            "precio_venta": 402.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 332,
+            "nombre": "Tiamazol",
+            "stock": 84,
+            "precio_compra": 129.0,
+            "precio_venta": 281.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 333,
+            "nombre": "Propiltiouracilo",
+            "stock": 17,
+            "precio_compra": 222.0,
+            "precio_venta": 357.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 334,
+            "nombre": "Estradiol",
+            "stock": 26,
+            "precio_compra": 280.0,
+            "precio_venta": 400.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 335,
+            "nombre": "Progesterona",
+            "stock": 97,
+            "precio_compra": 224.0,
+            "precio_venta": 252.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 336,
+            "nombre": "Testosterona",
+            "stock": 39,
+            "precio_compra": 399.0,
+            "precio_venta": 489.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 337,
+            "nombre": "Dexametasona",
+            "stock": 34,
+            "precio_compra": 146.0,
+            "precio_venta": 250.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 338,
+            "nombre": "Prednisona",
+            "stock": 100,
+            "precio_compra": 423.0,
+            "precio_venta": 502.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 339,
+            "nombre": "Metilprednisolona",
+            "stock": 22,
+            "precio_compra": 472.0,
+            "precio_venta": 600.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 340,
+            "nombre": "Deflazacort",
+            "stock": 53,
+            "precio_compra": 278.0,
+            "precio_venta": 394.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        },
+        {
+            "id": 341,
+            "nombre": "Fludrocortisona",
+            "stock": 73,
+            "precio_compra": 479.0,
+            "precio_venta": 642.0,
+            "fecha_caducidad": "2026-12-31",
+            "sintoma": "Tiroides y Hormonas"
+        }
+    ],
+    "ventas": [],
+    "ventas_historicas": [],
+    "seq_medicamento": 342,
+    "seq_venta": 1,
+    "seq_venta_historica": 1
+}
